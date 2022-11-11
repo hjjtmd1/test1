@@ -1,6 +1,0 @@
-swagger
-https://madev.anruicloud.com/ma-api/index.html
-
-测试地址:
-https://madev.anruicloud.com/#/APIConfigure/index
-管理员：  CDI部门管理员  123456  （可以看到接口和行为配置模块）
